@@ -1,6 +1,6 @@
 # Web-Crawler
 ## steps to start
-'''
+
 1.	Pip install virtualenv (install virtual environments)
 2.	python -m venv venv (create the venv files)
 3.	now activate the virtual environment (venv/Scripts/activate)
@@ -20,4 +20,4 @@
 
 16.	To run the spider -> go to spider folder then write in terminal (scrapy crawl <spider_name> -o <json_file_name.json> )
 17.	it will create a json file and store all the data while running the crawler.
-'''
+
